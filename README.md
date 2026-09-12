@@ -15,6 +15,7 @@ below are the images explaining how the full-adder works and some other images f
 <br> <br>
 The "Conditional inverter" and "Conditional signal blocker" might look like too complex for a too basic binary adder but in minecraft it was built 
 with just few redstone repeater and a redstone comparator, now when I converted the logic from game to real life block diagram I just found out that my "conditional inverter" is just an Exclusive-OR gate, and the "Conditional signal blocker" is just an And gate (feeling kinda stupid).
+<br> So the standard full-adder uses only 5 logic gate while this design which I figured out uses 6, that's one more but hey it works.
 <br>
 Initially I thought these were conditional blocks because I made the logic that way only.
 <br> <br>
