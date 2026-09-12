@@ -7,7 +7,8 @@ I am sharing it here.
 <br><br>
 Rediscovered both half-adder and full-adder but half adder is lowkey exactly the same so I will only talk about full-adder.
 <br>
-You can download my minecraft world and use it by yourself, it also contains one binary encoder and decoder for upto 4 bits of encoding and decoding.
+You can [download my minecraft world](https://github.com/Ayush-028/2bit-binary-adder_in_minecraft/raw/refs/heads/main/binarry_adder_mcworld_java.zip) 
+and use it by yourself, it also contains one binary encoder and decoder for upto 4 bits of encoding and decoding.
 below are the images explaining how the full-adder works and some other images from the same world.
 <br> <br>
 <img width="1200" height="757" alt="final image 2" src="https://github.com/user-attachments/assets/83501e7c-6d1d-45fd-a303-a0e4f778a3d9" />
