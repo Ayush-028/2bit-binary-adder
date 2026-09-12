@@ -11,3 +11,7 @@ below are the images explaining how the full-adder works and some other images f
 
 <img width="1200" height="757" alt="final image 2" src="https://github.com/user-attachments/assets/3f562561-5b52-438f-bf0f-326b111cf069" />
 
+The "Conditional inverter" and "Conditional signal blocker" might look like too complex for a too basic binary adder but in minecraft it was built 
+with just few redstone repeater and a redstone comparator.
+
+<img width="1114" height="774" alt="final image 3" src="https://github.com/user-attachments/assets/9b997010-be00-4260-9ea2-15fe7c011458" />
